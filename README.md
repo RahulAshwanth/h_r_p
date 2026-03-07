@@ -5,7 +5,7 @@
 
 ## Table of Contents
 - Introduction
-- Features jbkj  n k
+- Features 
 
 # Introduction
 - The House Rent Analysis project focuses on analyzing various factors that influence house rent prices using a dataset. 
