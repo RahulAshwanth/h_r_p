@@ -9,7 +9,7 @@
 
 # Introduction
 - The House Rent Analysis project focuses on analyzing various factors that influence house rent prices using a dataset. 
-- The script includes **data cleaning, statistical analysis, and various visualizations** to help understand the data better.
+- The script includes **data cleaning, statistical analysis, and various visualizations** to help understand the data better.m
 
 # Features
 - Data Cleaning and Preparation
