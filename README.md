@@ -1,7 +1,7 @@
 # House Rent Analysis
 
 - This repository contains a Python script for analyzing house rent data. 
-- The goal of this project is to perform **statistical analysis, data cleaning, visualization,** and to derive insights from the dataset.vv
+- The goal of this project is to perform **statistical analysis, data cleaning, visualization,** and to derive insights from the dataset.vvv
 
 ## Table of Contents
 - Introduction
