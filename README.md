@@ -4,7 +4,7 @@
 - The goal of this project is to perform **statistical analysis, data cleaning, visualization,** and to derive insights from the dataset.
 
 ## Table of Contents
-- Introduction
+- Introductions
 - Features 
 
 # Introduction
